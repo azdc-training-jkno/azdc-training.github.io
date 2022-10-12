@@ -1,6 +1,6 @@
 # azdc-training.github.io
 
-Landing page for azdc-training jkno organization - have fun! 🚀
+Landing page for azdc-training jkno organization - have fun twice! 🚀
 
 This is a sample README.md where you document your newly created Coding Dreams! 🧚‍♀️ 🧚‍♂️
 
